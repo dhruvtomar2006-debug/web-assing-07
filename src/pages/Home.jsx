@@ -24,6 +24,14 @@ function Home({ companies, myProfile, checkEligible, appliedCount }) {
             <span className="profile-value">{myProfile.name}</span>
           </div>
           <div className="profile-item">
+            <span className="profile-label">UID</span>
+            <span className="profile-value">{myProfile.uid}</span>
+          </div>
+          <div className="profile-item">
+            <span className="profile-label">Roll Number</span>
+            <span className="profile-value">{myProfile.rollNo}</span>
+          </div>
+          <div className="profile-item">
             <span className="profile-label">Branch</span>
             <span className="profile-value">{myProfile.branch}</span>
           </div>

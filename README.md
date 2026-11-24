@@ -3,7 +3,8 @@
 WEB 301 — Advance Frontend Engineering (Assignment 7 / Mid-Sem Phase 2)
 
 - **Student Name:** Dhruv Tomar
-- **Roll Number / UID:** 9 / 198
+- **UID:** Dhruv Tomar 198
+- **Roll Number:** 9
 - **Email:** dhruvtomar2006@gmail.com
 - **Assigned Problem Statement:** P9 — Campus Placement Drive
 - **Live Vercel Deployment Link:** https://web-assing-07.vercel.app (or project dashboard: https://vercel.com/dhruv-tomars-projects-e2d33bfa)

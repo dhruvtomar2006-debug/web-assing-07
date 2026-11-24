@@ -2,6 +2,8 @@
 // Student profile used for eligibility
 export const myProfile = {
   name: "Dhruv Tomar",
+  uid: "Dhruv Tomar 198",
+  rollNo: 9,
   branch: "CSE",
   cgpa: 7.5,
 };
